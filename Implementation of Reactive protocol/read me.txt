@@ -1,0 +1,7 @@
+%% Author Altaf khan - semester project 2014
+how to install:
+Implementation of Reactive protocol\obj\x86\Debug
+double click implementation exe file and install on your pc,
+if database connection problem occur , user can restore passowrd_sc.bak file as a database
+
+

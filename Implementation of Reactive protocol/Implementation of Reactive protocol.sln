@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation of Reactive protocol", "Implementation of Reactive protocol\Implementation of Reactive protocol.csproj", "{B2E1EA46-B748-423A-9D58-1CA5351A5265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E1EA46-B748-423A-9D58-1CA5351A5265}.Debug|x86.ActiveCfg = Debug|x86
+		{B2E1EA46-B748-423A-9D58-1CA5351A5265}.Debug|x86.Build.0 = Debug|x86
+		{B2E1EA46-B748-423A-9D58-1CA5351A5265}.Release|x86.ActiveCfg = Release|x86
+		{B2E1EA46-B748-423A-9D58-1CA5351A5265}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
